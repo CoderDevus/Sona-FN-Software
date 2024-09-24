@@ -1,6 +1,8 @@
 # Sona-FN-Software
 Sona fortnite software
 
+# Download
+In the releases tab.
 
 # Fornite Sona software
 This project aims to provide users with a set of software tools and functionalities for the popular game Fortnite. Whether you're looking to enhance your gameplay experience or experiment with game mechanics, this project offers various features to explore.
