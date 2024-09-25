@@ -72,7 +72,7 @@ This project aims to provide users with a set of software tools and functionalit
 
 # Download
 In the releases tab.
-![image](https://github.com/user-attachments/assets/f328c36a-1f2d-4413-8af8-ec0d7672fe53)
+![image](https://github.com/user-attachments/assets/41cf3d37-1c19-4c3f-ab7e-c1b63f4e78ef)
 
 
 # ⚠️Disclaimer⚠️: 
