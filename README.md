@@ -4,7 +4,7 @@ Sona fortnite software
 # Download
 In the releases tab.
 
-# Fornite Sona software
+# Forntite Sona software
 This project aims to provide users with a set of software tools and functionalities for the popular game Fortnite. Whether you're looking to enhance your gameplay experience or experiment with game mechanics, this project offers various features to explore.
 
 # Installation
@@ -13,7 +13,7 @@ This project aims to provide users with a set of software tools and functionalit
 3. Enjoy: Enhance your Fortnite experience with added functionality and dominate the battlefield!
 
 # ⚠️Disclaimer⚠️: 
-Make sure to not abuse Fly, Speed hack, If you do, You will get banned after a few hours if you abuse the mods.
+Make sure to not abuse Fly, Speed hack, If you do, You will get banned after a few hours.
 
 
 
