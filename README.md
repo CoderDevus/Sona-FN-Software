@@ -72,8 +72,6 @@ This project aims to provide users with a set of software tools and functionalit
 
 # Download
 In the releases tab.
-![image](https://github.com/user-attachments/assets/41cf3d37-1c19-4c3f-ab7e-c1b63f4e78ef)
-
 
 # ⚠️Disclaimer⚠️: 
 Make sure to not abuse Fly, Speed hack, If you do, You will get banned after a few hours.
